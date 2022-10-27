@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishita Pande</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=1200x900">
 
 - 🔭 I’m currently working on **Front-end development**
 
@@ -8,6 +9,7 @@
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 📫 How to reach me **pande.nishita@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
